@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for contributing in [Inpact.AI](https://github.com/AOSSIE-Org/InPactAI)
 
-- 💬 Ask me about **HTML,CSS,Javascript,React,Supabase and Python**
+- 💬 Ask me about **HTML,CSS,Javascript,React.js,Supabase and Python**
 
 - 📫 How to reach me **ananyapandey.brgs@gmail.com**
 
