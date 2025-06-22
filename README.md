@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Next.js,Django and Firebase**
 
-- 🤝 I’m looking for contributing in [Inpact.AI](https://github.com/AOSSIE-Org/InPactAI)
+- 🤝 I’m passionate about working on open source projects.
 
 - 💬 Ask me about **HTML,CSS,Javascript,React.js,Supabase and Python**
 
 - 📫 How to reach me **ananyapandey.brgs@gmail.com**
 
-- ⚡ Fun fact **I love to contribute in open source projects**
+- ⚡ Fun fact **I coffee is enough to boost me up.**
 
 
 <h3 align="left">Connect with me:</h3>
