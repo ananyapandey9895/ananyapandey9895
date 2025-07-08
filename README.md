@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **RoboMedica Portal**
 
-- 🌱 I’m currently learning **Next.js,Django and Firebase**
+- 🌱 I’m currently learning **Node.js and Django**
 
 - 🤝 I’m passionate about working on open source projects.
 
