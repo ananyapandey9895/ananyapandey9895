@@ -12,7 +12,7 @@
 - 🔭 Working on **RoboMedica Portal**  
 - 🌱 Learning **Node.js** & **Django**  
 - 🤝 Love contributing to **Open Source Projects**  
-- 💬 Ask me about **HTML, CSS, JavaScript, React.js, Supabase, Python**  
+- 💬 Ask me about **HTML, CSS, JavaScript, React.js, Supabase, Firebase, Python**  
 - 📫 Reach me at **ananyapandey.brgs@gmail.com**  
 - ⚡ Fun fact: **One coffee = Instant productivity boost ☕**  
 
