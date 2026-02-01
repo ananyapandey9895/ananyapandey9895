@@ -10,9 +10,9 @@
 
 ### 🌟 About Me  
 - 🔭 Working on **RoboMedica Portal**  
-- 🌱 Learning **Node.js** & **Django**  
+- 🌱 Learning **Django** and **Java** 
 - 🤝 Love contributing to **Open Source Projects**  
-- 💬 Ask me about **HTML, CSS, JavaScript, React.js, Supabase, Firebase, Python, Typescript, Next.js**  
+- 💬 Ask me about **HTML, CSS, JavaScript, React.js, Supabase, Firebase, Python, Typescript, Next.js, MongoDB, MYSQL, Node.js**  
 - 📫 Reach me at **ananyapandey.brgs@gmail.com**  
 - ⚡ Fun fact: **One coffee = Instant productivity boost ☕**  
 
