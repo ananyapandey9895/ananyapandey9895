@@ -37,7 +37,7 @@
 ## 🧑‍💻 Tech Stack
 
 ### Frontend
-HTML • CSS • JavaScript • React.js • Next.js • TypeScript • Tailwind CSS
+HTML • CSS • JavaScript • React.js • Next.js • TypeScript • Tailwind CSS • Node.js 
 
 ### Backend
 Node.js • Express.js • Firebase • Supabase • Django
