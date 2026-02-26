@@ -43,7 +43,7 @@ HTML • CSS • JavaScript • React.js • Next.js • TypeScript • Tailwind
 Node.js • Express.js • Firebase • Supabase • Django
 
 ### Databases
-MongoDB • MySQL
+MongoDB • MySQL • PostgreSQL
 
 ### Tools & Platforms
 Git • GitHub • Docker • Linux • Figma • VS Code
